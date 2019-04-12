@@ -1,19 +1,19 @@
 # Files and directories created by pub
 .packages
 .pub/
-build/
+#build/
 packages
 pubspec.lock # (Remove this pattern if you wish to check in your lock file)
 
 # Files created by dart2js
-*.dart.js
+#*.dart.js
 *.part.js
 *.js.deps
 *.js.map
 *.info.json
 
 # Directory created by dartdoc
-doc/api/
+#doc/api/
 
 # JetBrains IDEs
 .idea/
